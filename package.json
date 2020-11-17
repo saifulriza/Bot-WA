@@ -13,6 +13,7 @@
   "dependencies": {
     "automata.js": "^0.2.1",
     "svg-to-img": "^2.0.9",
-    "viz.js": "^2.1.2"
+    "viz.js": "^2.1.2",
+    "whatsapp-web.js": "^1.11.0"
   }
 }
