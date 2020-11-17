@@ -1,0 +1,17 @@
+{
+  "name": "wa-handwriter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node bot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "automata.js": "^0.2.1",
+    "svg-to-img": "^2.0.9",
+    "viz.js": "^2.1.2"
+  }
+}
